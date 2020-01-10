@@ -5,6 +5,9 @@
 This is an application for viewing weather data from Netatmo on a map.
 It was coded in JavaScript via the framwork reactbootstrap
 
+<p align="center">
+  <img src="https://github.com/youssefbenhammed/n-weather/blob/master/GoodOne.gif">
+</p>
 
 
 We use the [Netatmo API](dev.netatmo.com) and the [Mapbox API](https://www.mapbox.com/)
